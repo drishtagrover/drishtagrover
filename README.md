@@ -90,6 +90,7 @@
 
 ## 📫 Let's Connect!
 
+- 💼 Open for: Internships | Freelance | ML/Web Projects
 - ✉️ **Email**: [drishtagrover13781@gmail.com](mailto:drishtagrover13781@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/drishta-grover-1ba1882b2](https://www.linkedin.com/in/drishta-grover-1ba1882b2)  
 - 💻 **GitHub**: [github.com/drishtagrover](https://github.com/drishtagrover)
