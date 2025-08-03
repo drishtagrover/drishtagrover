@@ -1,4 +1,6 @@
-## Hi there 👋
+## <h1 align="center">Hi there, I'm Drishta Grover 👋</h1>
+🎓 Final-year Computer Science student at Guru Gobind Singh Indraprastha University
+passionate about full-stack development, NLP, and building impactful software solutions.
 
 <!--
 **drishtagrover/drishtagrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
