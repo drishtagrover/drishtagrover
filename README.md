@@ -50,6 +50,7 @@
     <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/></td>
     <td><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"</td>
   </tr>
 </table>
 
