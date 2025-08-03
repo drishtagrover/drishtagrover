@@ -5,12 +5,12 @@
 🚀 About Me
 
 - 🎓 I'm a final-year Computer Science student at **Vivekananda Institute of Professional Studies – Technical Campus**.
-- 👩‍💻 I’m deeply passionate about **full-stack web development** — from crafting elegant frontend UIs to building robust backend systems.
-- 💻 I love solving **Data Structures and Algorithms** problems in **Java** — it's my daily brain gym.
+- 👩‍💻 I’m deeply passionate about **full-stack web development** - from crafting elegant frontend UIs to building robust backend systems.
+- 💻 I love solving **Data Structures and Algorithms** problems in **Java** - it's my daily brain gym.
 - 🌱 Currently diving deep into **Spring Boot** and **MongoDB** to power up my backend skills and become a rock-solid full-stack engineer.
 - 🏆 Runner-up at HackArena Hackathon, IIIT Delhi 
 - 🧠 I believe in writing clean, meaningful code that solves real-world problems and helps people.
-- ✨ I'm a creative soul — I care about great UX, thoughtful design, and efficient systems.
+- ✨ I'm a creative soul - I care about great UX, thoughtful design, and efficient systems.
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +76,11 @@
   A full-stack app built with React, Node.js, and MySQL to manage blood stock, donor registrations, and requests.
 
 - **🧠 Sarcasm Detection Using BERT**  
-  Used PyTorch and Hugging Face Transformers to fine-tune a BERT model for sarcasm detection — boosted accuracy by 15%.
+  Used PyTorch and Hugging Face Transformers to fine-tune a BERT model for sarcasm detection - boosted accuracy by 15%.
+  
+- **💻 ETutor Website** – React, Tailwind, Framer Motion
+   A sleek, animated site for tuition agencies to promote their online teaching services. Used Framer Motion for scroll-based animations and interactive UI transitions.
+
 
 ## 💼Internship Experience
 -  Frontend Developer Intern at Railway Protection Force(RPF Delhi)
